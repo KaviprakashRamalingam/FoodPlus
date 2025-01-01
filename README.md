@@ -20,12 +20,14 @@
 ## **✨ Key Features**  
 ### 🔒 **User Authentication**  
 Secure login and signup with Firebase.  
+<br>
 <img src="https://github.com/KaviprakashRamalingam/FoodPlus/blob/main/screenshots/login-flow.gif" alt="Login Flow" width="400">
 
 ### 📝 **Post Creation**  
 Create posts with images and geolocation.  
+<br>
 <img src="https://github.com/KaviprakashRamalingam/FoodPlus/blob/main/screenshots/create-post.png" alt="Creating a Post" width="300">
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/KaviprakashRamalingam/FoodPlus/blob/main/screenshots/PostList.png" alt="Post List" width="300">
 
 ### 🗺️ **Map Integration**  
