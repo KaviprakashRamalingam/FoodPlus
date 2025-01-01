@@ -20,19 +20,20 @@
 ## **✨ Key Features**  
 ### 🔒 **User Authentication**  
 Secure login and signup with Firebase.  
-![Login Flow](https://github.com/KaviprakashRamalingam/FoodPlus/blob/main/screenshots/login-flow.gif)  
+<img src="https://github.com/KaviprakashRamalingam/FoodPlus/blob/main/screenshots/login-flow.gif" alt="Login Flow" width="400">
 
 ### 📝 **Post Creation**  
 Create posts with images and geolocation.  
-![Creating a Post](https://github.com/KaviprakashRamalingam/FoodPlus/blob/main/screenshots/create-post.png)
-![Post List](https://github.com/KaviprakashRamalingam/FoodPlus/blob/main/screenshots/PostList.png)
+<img src="https://github.com/KaviprakashRamalingam/FoodPlus/blob/main/screenshots/create-post.png" alt="Creating a Post" width="300">
+
+<img src="https://github.com/KaviprakashRamalingam/FoodPlus/blob/main/screenshots/PostList.png" alt="Post List" width="300">
 
 ### 🗺️ **Map Integration**  
 View nearby food posts with Apple Maps.  
 
 ### 🍽️ **Recipe Feature**  
 Search recipes by ingredients and reduce food waste.  
-![Recipe Search](https://github.com/KaviprakashRamalingam/FoodPlus/blob/main/screenshots/recipe-search.png)  
+<img src="https://github.com/KaviprakashRamalingam/FoodPlus/blob/main/screenshots/recipe-search.png" alt="Recipe Search" width="400">
 
 ---
 
